@@ -5,6 +5,7 @@ import html
 import numpy as np
 import ipywidgets as widgets
 import plotly.io as pio
+import plotly.express as px
 
 from IPython.display import clear_output
 
