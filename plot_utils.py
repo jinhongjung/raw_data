@@ -290,9 +290,9 @@ def interactive_lsh_probability():
     )
 
     r_slider = widgets.IntSlider(
-        value=5,
+        value=4,
         min=1,
-        max=10,
+        max=20,
         step=1,
         description="Rows (r):",
         continuous_update=False
